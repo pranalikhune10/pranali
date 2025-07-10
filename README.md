@@ -1,2 +1,2 @@
 # pranali
-this is a power bi end to end project
+this is a my first git repository
